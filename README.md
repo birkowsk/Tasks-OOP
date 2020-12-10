@@ -4,6 +4,12 @@ Boilerplate with settings Eslint & Prettier & Babel configured by Birkowsk&Pawel
 
 Boilerplate has been created for object-oriented programming tasks made by Przemocny Localhost_academy
 
+OOP Javascript training
+|Task 1 - Data structure of Library|
+|Task 2 - Data structure of Shop|
+|Task 3 - Data structure of Users
+|Task 4 - Data structure of Adress Book|
+
 ## To start working with the repository:
 
 ```javascript
